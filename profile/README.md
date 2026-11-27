@@ -1,33 +1,40 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:312E81,100:6366F1&height=220&section=header&text=MaduroLabs&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=An%20Independent%20Software%20Experimentation%20Lab&descSize=16&descAlignY=60&animation=fadeIn" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/madurolabs-lockup-on-light-2048w.png">
+  <img width="480" alt="MaduroLabs" src="https://res.cloudinary.com/dszkt92jr/image/upload/v1795803742/madurolabs-lockup-on-dark-4096w_go5zn6.png">
+</picture>
+
+<br/><br/>
+
+An Independent Software Experimentation Lab
 
 ### Questionable ideas. Serious engineering.
 
 Frameworks · AI · Developer Tools · Interactive Experiences
 
-[![Repositories](https://img.shields.io/badge/Explore-Repositories-181717?style=for-the-badge&logo=github)](https://github.com/orgs/MaduroLabs/repositories)
-[![Website](https://img.shields.io/badge/Website-dungtran.dev-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://dungtran.dev)
-[![Open Source](https://img.shields.io/badge/Built%20in-Public-238636?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/MaduroLabs)
+[![Repositories](https://img.shields.io/badge/Explore-Repositories-181717?style=flat-square&logo=github)](https://github.com/orgs/MaduroLabs/repositories)
+[![Website](https://img.shields.io/badge/Website-dungtran.dev-181717?style=flat-square&logo=vercel&logoColor=white)](https://dungtran.dev)
+[![Open Source](https://img.shields.io/badge/Built%20in-Public-181717?style=flat-square&logo=opensourceinitiative&logoColor=white)](https://github.com/MaduroLabs)
 
 </div>
 
 ---
 
-## 🧪 The Lab
+## The Lab
 
 **MaduroLabs** is an independent software lab exploring frameworks, runtimes, intelligent systems, developer tools, and occasionally ridiculous games.
 
 Not everything needs to become a product. Sometimes, curiosity is enough.
 
-## 🚀 Experiments
+## Experiments
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>⚛️ <a href="https://github.com/MaduroLabs/ruseact">Ruseact</a></h3>
+<h3><a href="https://github.com/MaduroLabs/ruseact">Ruseact</a></h3>
 
 An experimental React-inspired frontend runtime powered by a Rust reactive core.
 
@@ -44,11 +51,11 @@ An experimental React-inspired frontend runtime powered by a Rust reactive core.
 </td>
 <td width="50%" valign="top">
 
-<h3>🎨 <a href="https://github.com/MaduroLabs/styleport">StylePort</a></h3>
+<h3><a href="https://github.com/MaduroLabs/styleport">StylePort</a></h3>
 
 Portable design systems for AI coding agents. Extract once, adapt anywhere.
 
-<img src="https://img.shields.io/badge/Agent_Skills-6366F1?style=flat-square" />
+<img src="https://img.shields.io/badge/Agent_Skills-333333?style=flat-square" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <a href="https://skills.sh/MaduroLabs/styleport">
   <img src="https://skills.sh/b/MaduroLabs/styleport" />
@@ -65,12 +72,12 @@ Portable design systems for AI coding agents. Extract once, adapt anywhere.
 <tr>
 <td width="50%" valign="top">
 
-<h3>🧠 <a href="https://github.com/MaduroLabs/forma">Forma</a></h3>
+<h3><a href="https://github.com/MaduroLabs/forma">Forma</a></h3>
 
 An experiment in modular, model-agnostic AI workflow execution.
 
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust" />
-<img src="https://img.shields.io/badge/AI_Infrastructure-6366F1?style=flat-square" />
+<img src="https://img.shields.io/badge/AI_Infrastructure-333333?style=flat-square" />
 <img src="https://img.shields.io/badge/Status-Experimental-D97706?style=flat-square" />
 
 <br/><br/>
@@ -82,13 +89,13 @@ An experiment in modular, model-agnostic AI workflow execution.
 </td>
 <td width="50%" valign="top">
 
-<h3>🎮 <a href="https://github.com/MaduroLabs/CrossRoadAtVietnam">CrossRoadAtVietnam</a></h3>
+<h3><a href="https://github.com/MaduroLabs/CrossRoadAtVietnam">CrossRoadAtVietnam</a></h3>
 
 A first-person 3D game about crossing Vietnamese streets. Good luck.
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
 <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs" />
-<img src="https://img.shields.io/badge/Rapier-EC4899?style=flat-square" />
+<img src="https://img.shields.io/badge/Rapier-333333?style=flat-square" />
 
 <br/><br/>
 
@@ -110,7 +117,7 @@ A first-person 3D game about crossing Vietnamese streets. Good luck.
 
 ---
 
-## 🔬 What We Explore
+## What We Explore
 
 <div align="center">
 
@@ -136,13 +143,11 @@ Ideas, feedback, bug reports, and contributions are always welcome.
 
 Founded and maintained by **[Maduro](https://github.com/dncmaduro)**.
 
-[![Follow Maduro](https://img.shields.io/github/followers/dncmaduro?style=for-the-badge&logo=github&label=Follow%20Maduro)](https://github.com/dncmaduro)
-[![Website](https://img.shields.io/badge/dungtran.dev-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://dungtran.dev)
+[![Follow Maduro](https://img.shields.io/github/followers/dncmaduro?style=flat-square&logo=github&label=Follow%20Maduro&color=181717)](https://github.com/dncmaduro)
+[![Website](https://img.shields.io/badge/dungtran.dev-181717?style=flat-square&logo=vercel&logoColor=white)](https://dungtran.dev)
 
 <br/>
 
 <sub>Well, well, well... I just want to create something.</sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:312E81,100:6366F1&height=100&section=footer" />
 
 </div>
